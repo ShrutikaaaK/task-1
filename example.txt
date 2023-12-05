@@ -1,1 +1,1 @@
-This is a modified line in feature-branch.
+This is a conflicting modification in main-branch.
