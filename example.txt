@@ -1,1 +1,1 @@
-This is a conflicting modification in main-branch.
+This is feature-branch commit. 
